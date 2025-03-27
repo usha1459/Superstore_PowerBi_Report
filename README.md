@@ -39,7 +39,7 @@ Through this report, I learned:
 
 ## Report Preview
 
-
+https://github.com/usha1459/Superstore_PowerBi_Report/blob/main/Superset_visuals.jpg
 
 ## Feedback & Collaboration
 
